@@ -1,0 +1,50 @@
+.card_div {
+    display: flex;
+
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.card_para {
+    max-width: 400px;
+}
+
+.card_box {
+    display: flex;
+}
+
+.div_text {
+    display: flex;
+   
+    justify-content: space-between;
+
+}
+
+.div_sec_2 {
+    width: 50%;
+    padding: 0px 50px;
+}
+.div_sec_2_img{
+    width: 50%;
+}
+.container_2 {
+    display: flex;
+}
+.sec_2_cont_div_2 {
+    display: flex;
+    justify-content: space-between;
+}
+.li_div {
+    width: 60%;
+}
+.footer_link{
+    display: flex;
+    gap: 50px;
+}
+section{
+    padding:50px 0;
+}
